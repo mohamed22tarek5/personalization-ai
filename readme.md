@@ -1,84 +1,29 @@
 
+1- إضافة بتخلي ChatGPT يعملك ملف Word للأسئلة اللي بتسألها، وكمان المعادلات بتطلع مكتوبة بشكل صحيح ومنسق زي الكتب والأبحاث العلمية.
 
-AI Enhancement Package Guide
+الإضافة دي هتفيدك جدًا في:
 
-Overview
+كتابة التقارير.
 
-This package contains four components designed to improve your AI workflow, increase output quality, and help you create professional documents, reports, and project materials more efficiently.
+إعداد المشاريع.
 
-1. Document Generation Extension
+كتابة الأبحاث والمستندات العلمية.
 
-This extension enables ChatGPT to generate Microsoft Word documents directly from your prompts and questions.
 
-Benefits
+بعد ما تخلص العدد التجريبي، ادخل على رابط الإضافة واعملها إزالة، وبعد كده أضفها من جديد.
 
-Creates properly formatted Word documents.
+2- Custom Instructions
 
-Preserves mathematical equations and formulas accurately.
+ادخل على Settings > Personalization، وسجل اسمك ومجال شغلك، وبعد كده انسخ الجزء الخاص بـ Custom Instructions الموجود في الملف وحطه هناك.
 
-Produces equations in a format similar to textbooks, research papers, and scientific publications.
+3- More About You
 
-Improves report writing and project documentation.
+ادخل على Settings > Personalization، وسجل اسمك ومجال شغلك، وبعد كده انسخ الجزء الخاص بـ More About You الموجود في الملف وحطه هناك.
 
-Important Note
+4- رسالة لتقوية أداء أي أداة ذكاء اصطناعي
 
-After the trial period ends:
+افتح محادثة جديدة وابعت النص الموجود تحت عنوان "Send This Message" في آخر الملف للأداة أكتر من مرة.
 
-Open the extension page.
+ويُفضل كل أسبوع أو أسبوعين تبعت الرسالة تاني علشان تنشّط الذاكرة والسياق الخاص بالأداة وتحافظ على أفضل أداء ممكن.
 
-Remove the extension completely.
-
-Install it again if required.
-
-2. Custom Instructions Setup
-
-Navigate to:
-
-Settings → Personalization → Custom Instructions
-
-Then:
-
-Enter your name.
-
-Enter your profession or field of work.
-
-Copy and paste the Custom Instructions section provided in this package.
-
-This helps the AI understand your preferences and deliver more relevant responses.
-
-3. More About You Setup
-
-Navigate to:
-
-Settings → Personalization → More About You
-
-Then:
-
-Enter your name.
-
-Enter your profession or area of expertise.
-
-Copy and paste the More About You section provided in this package.
-
-This allows the AI to personalize responses according to your background and goals.
-
-4. AI Performance Optimization Message
-
-At the end of this package, you will find a section called:
-
-"Send This Message"
-
-Recommended Usage
-
-Open a new conversation with your AI assistant.
-
-Send the message multiple times.
-
-Repeat this process approximately every one to two weeks.
-
-Many users find that periodically reinforcing instructions helps maintain consistency and improves the relevance of future responses.
-
-Credits
-
-Created by Mohamed Tarek. :::
-
+صاحب الطريقة: محمد طارق.
